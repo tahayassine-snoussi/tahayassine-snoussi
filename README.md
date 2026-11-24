@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taha</h1>
+<h1 align="center">Hi 👋, I'm Taha Yassine Snoussi</h1>
 
 <p align="center">
   <b>Data Science & AI Engineering Student @ ESPRIT</b><br>
@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/taha-yassine-0834a7273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tahayassinesnoussi05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 🟢 **Open to:** internships · final-year project (PFE) · interesting data problems
@@ -62,8 +62,8 @@
 ## 📈 GitHub stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tahayassine-snoussi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahayassine-snoussi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center"><i>From raw data to production, powered by maths and probability.</i></p>
