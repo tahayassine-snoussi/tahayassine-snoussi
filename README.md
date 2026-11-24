@@ -48,10 +48,10 @@
 
 | Project | What it shows | Stack |
 |---------|---------------|-------|
-| 🏠 [GeoRisk Habitat](https://github.com/YOUR_USERNAME/REPO_NAME) | Home-insurance risk modeling with natural-hazard data | Python, ML |
-| 🛡️ [Wazuh → ATT&CK Pipeline](https://github.com/YOUR_USERNAME/REPO_NAME) | Maps SIEM events to MITRE techniques with confidence scoring | Python, Wazuh |
-| 📊 [Bank Marketing Data Prep](https://github.com/YOUR_USERNAME/REPO_NAME) | Cleaning to PCA on a real-world dataset | Python, Jupyter |
-| 🤖 [RAG Project](https://github.com/YOUR_USERNAME/REPO_NAME) | Retrieval-augmented generation over custom documents | Python, LLMs |
+| 🏠 [GeoRisk Habitat](https://github.com/tahayassine-snoussi/GeoRisk-4Actuariat-g6) | Home-insurance risk modeling with natural-hazard data | Python, ML |
+| 🛡️ [Wazuh → ATT&CK Pipeline](https://github.com/tahayassine-snoussi/Attack_Progression_Prediction_MITRE-ATT-CK) | Maps SIEM events to MITRE techniques with confidence scoring | Python, Wazuh |
+| 📊 [Bank Marketing Data Prep](https://github.com/tahayassine-snoussi/advanced-ML-mini-project) | Cleaning to PCA on a real-world dataset | Python, Jupyter |
+| 🤖 [RAG Project](https://github.com/tahayassine-snoussi/wauzh-rag-pipeline) | Retrieval-augmented generation over custom documents | Python, LLMs |
 
 ## 🎯 Currently exploring
 
